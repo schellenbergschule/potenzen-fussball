@@ -1,6 +1,4 @@
-export default function App() {
-  return (
-    import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect } from 'react';
 
 const PotenzFussballSpiel = () => {
   const [ballPosition, setBallPosition] = useState(3); // 0 = Mein Tor, 6 = Gegnertor, 3 = Mitte
@@ -494,5 +492,3 @@ const PotenzFussballSpiel = () => {
 };
 
 export default PotenzFussballSpiel;
-  );
-}
