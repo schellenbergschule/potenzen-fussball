@@ -1,0 +1,13 @@
+{
+  "name": "tsx-projekt",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "build": "vite build"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0",
+    "vite": "^5.0.0",
+    "@vitejs/plugin-react": "^4.0.0"
+  }
+}
